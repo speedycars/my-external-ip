@@ -1,0 +1,1 @@
+start "New External IP Address Notifier" /min "PATH\myextip.cmd"
